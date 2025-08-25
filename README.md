@@ -47,28 +47,4 @@ This is the main metadata file used by the app. It contains an array of blog obj
 
 ---
 
-## 🔧 Used By
-This repository is used as the backend for:  📱 [Android Blogs App](https://github.com/CodeInKotLang/AndroidBlogs)  
-A Jetpack Compose app that fetches and displays blogs using this GitHub repo as its content source.
 
----
-
-## ▶️ Tutorial Playlist
-
-📺 Follow the complete step-by-step playlist to build this app from scratch:
-
-🔗 [Watch on YouTube (15-part series)](https://youtube.com/playlist?list=PL1b73-6UjePBW_toAR1FBCmqPK6UudwMX&si=dIMeVmZhtNcWlgaL)
-![Playlist](https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs/refs/heads/master/readme-assets/playlist.JPG)
-
-# :memo: Author :memo:
-- [Mohammad Arif](https://github.com/CodeInKotLang)
-
-Check out my Udemy Courses: 
-- 📚 [Android Quiz App: Ktor Backend & Jetpack Compose](https://www.udemy.com/course/quiztime/?referralCode=D1F5E08155303110B7A4)  
-- 📚 [Android Fitness App: Firebase & Jetpack Compose](https://www.udemy.com/course/measuremate/?referralCode=B3DE352F96BC3C3E9E80)  
- 
-
-<a href="https://ko-fi.com/mohammadarif" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-Happy learning and building amazing Android apps!
